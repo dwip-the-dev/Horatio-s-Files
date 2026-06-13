@@ -1,0 +1,17 @@
+{
+  "order": 12,
+  "id": "inventory-audit",
+  "title": "Sealed Packet III — Desk Inventory Audit",
+  "kind": "police",
+  "password": "0524",
+  "sections": [
+    {
+      "heading": "MISSING OR WIPED ITEMS",
+      "body": "Halla's missing notebook was not present within the leather shoulder bag recovered from Director Norquist's office quarters. A meticulous audit of the main server facility found the notebook hidden behind the secondary cooling manifold. The final handwritten entries indicate that Halla discovered a sequence of structural deletions within old expedition files, traced entirely to Olafsson's local network terminal.\n\nSet down under oath, and therefore no safer than any other vanity of men. The constables disputed the matter till dawn: whether the witness erred, dissembled, or sought by falsehood to shield a greater villainy.\n\nThe margin is cleaner than the tale; that alone should give a sober mind pause. The desk-note beneath it read only: “keep apart from the louder papers.”"
+    },
+    {
+      "body": "Inspector’s margin: Stop looking only at the most obvious suspect. A clever hand can construct a perfect trail of electronic breadcrumbs to direct your gaze away from the terminal itself.\n\nMarked reliable by the clerk who was himself twice found mistaken. It was observed at the desk that fear and deceit oft borrow one another's garments.\n\nThus was it lodged in the file, though not one man at the desk would swear to the whole of it. The desk-note beneath it read only: “keep apart from the louder papers.”\n\nPencilled upon the inward flap, as though it were but a warehouse remembrance: The fourth sealed gate yields to the historic year of the frozen tragedy recorded in Halla's decrypted file."
+    }
+  ],
+  "subtitle": "Desk mark: doubtful. The same mark is set upon papers later proved sound."
+}

@@ -1,0 +1,14 @@
+{
+  "order": 7,
+  "rotation": -0.62,
+  "id": "cctv",
+  "title": "Register of Base CCTV Index",
+  "kind": "ledger",
+  "sections": [
+    {
+      "heading": "ARCHIVE CABIN CAM (motion only)",
+      "body": "21:55 Halla enters. 22:04 Norquist enters. 22:11 Norquist exits carrying her shoulder bag. 22:13 motion ceases.\n\nMarked reliable by the clerk who was himself twice found mistaken.\n\nThus was it lodged in the file, though not one man at the desk would swear to the whole of it. The desk-note beneath it read only: “keep apart from the louder papers.”"
+    }
+  ],
+  "subtitle": "Marked reliable by the clerk who was himself twice found mistaken."
+}

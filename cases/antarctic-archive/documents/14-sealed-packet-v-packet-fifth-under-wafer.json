@@ -1,0 +1,19 @@
+{
+  "order": 14,
+  "id": "sealed-14",
+  "title": "Sealed Packet V — Packet fifth under wafer",
+  "kind": "police",
+  "password": "2215",
+  "subtitle": "Set down under oath, and therefore no safer than any other vanity of men.",
+  "rotation": 4,
+  "sections": [
+    {
+      "heading": "INNER ABSTRACT",
+      "body": "The forensic report regarding the blunt-edged murder weapon—an ice-axe found tossed near the ice well—shows it was thoroughly wiped clean of all fingerprints. However, microscopic analysis extracted a trace of high-viscosity synthetic lithium grease from the shaft collar, a lubricant used exclusively for the high-RPM cooling arrays of the main server facility. Olafsson maintained three such specialized tools in his server workshop.\n\nFiled in a fair hand; trust it not overmuch. One of the detained souls lies outright, another lies by omission, and a third speaketh true in so crooked a manner that truth itself seems perjured.\n\nThere is a seam in this account where another hand hath tugged at it. The desk-note beneath it read only: “keep apart from the louder papers.”"
+    },
+    {
+      "heading": "RESTRICTED OBSERVATION",
+      "body": "The digital fabrication was traced to a local loop hosted on server port 2554, which allowed the automated script to bypass active logging networks during the murder window. The technician relied on the assumption that investigators would follow the loud trail of the ancestral diary and never look down into the server roots.\n\nEntered as sober truth, though truth oft weareth a counterfeit coat. The constables disputed the matter till dawn: whether the witness erred, dissembled, or sought by falsehood to shield a greater villainy.\n\nMining the network registers revealed that the fake loop was injected directly from the tech workshop terminal.\n\nPencilled upon the inward flap, as though it were but a warehouse remembrance: The final gate opens to the network port number where the fraudulent data loop was hosted."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "suspects": [
+    "Dr. P. Norquist, base director",
+    "Dr. J. Karam",
+    "M. Olafsson, comms tech",
+    "Annie Whitlow, intern",
+    "B. Carrick, journalist"
+  ],
+  "motives": ["Family name", "Career", "Custody / hatred", "To hide fraud", "Scoop"],
+  "weapons": [
+    "Hit with ice-axe then dropped",
+    "Pushed into well",
+    "Strangled with parka cord",
+    "Drugged then dropped",
+    "Shot with flare gun"
+  ],
+  "locations": ["Ice well", "Archive cabin", "Comms hut", "Generator room", "Snow tunnel"],
+  "times": [
+    "19:00 dinner",
+    "22:00 last sighting",
+    "01:00 quiet hour",
+    "04:00 sun-up",
+    "07:00 muster"
+  ]
+}

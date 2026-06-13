@@ -1,0 +1,31 @@
+{
+  "suspects": [
+    "Charles Decroix, dealer",
+    "Renée Boutin, restorer",
+    "Aristide Vaillant, collector",
+    "Yvette Sauval (sister)",
+    "Insp. Lambert Caillou"
+  ],
+  "motives": [
+    "Profit",
+    "Counter-exposure",
+    "Wounded pride",
+    "Inheritance",
+    "To bury the bribery file"
+  ],
+  "weapons": [
+    "Palette knife",
+    "Strangled with brush-rag",
+    "Lead-white poisoning (in cognac)",
+    "Pushed onto easel spike",
+    "Skull blow with marble pestle"
+  ],
+  "locations": ["Atelier", "Stair landing", "Café back room", "Sauval's bedroom", "Courtyard"],
+  "times": [
+    "Morning visitors (10 a.m.)",
+    "Lunch (1 p.m.)",
+    "Afternoon sitting (4 p.m.)",
+    "Evening (7 p.m.)",
+    "Late (11 p.m.)"
+  ]
+}

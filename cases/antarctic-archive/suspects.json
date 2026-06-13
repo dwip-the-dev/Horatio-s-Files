@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dir",
+    "name": "Dr. P. Norquist, base director",
+    "age": 58,
+    "occupation": "Director",
+    "relation": "Grandson of the 1912 expedition leader."
+  },
+  {
+    "id": "rival",
+    "name": "Dr. J. Karam",
+    "age": 45,
+    "occupation": "Senior researcher",
+    "relation": "Competed with Halla for the archive post."
+  },
+  {
+    "id": "tech",
+    "name": "M. Olafsson, comms tech",
+    "age": 31,
+    "occupation": "IT",
+    "relation": "Halla's ex-fiancé; lost custody of their child."
+  },
+  {
+    "id": "intern",
+    "name": "Annie Whitlow, intern",
+    "age": 23,
+    "occupation": "Intern",
+    "relation": "Caught fabricating ice-core data; Halla had told her advisor."
+  },
+  {
+    "id": "vis",
+    "name": "B. Carrick, journalist",
+    "age": 39,
+    "occupation": "Visiting reporter",
+    "relation": "Promised Halla's manuscript for serialisation."
+  }
+]

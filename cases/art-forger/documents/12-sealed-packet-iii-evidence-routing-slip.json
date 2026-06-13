@@ -1,0 +1,17 @@
+{
+    "order": 12,
+    "id": "routing-slip",
+    "title": "Sealed Packet III — Evidence Routing Slip",
+    "kind": "ledger",
+    "sections": [
+      {
+        "heading": "CHAIN OF CUSTODY",
+        "body": "Three items were split from the main file and routed by hand rather than with the ordinary desk bundle: the bribery ledger, Sauval's note, and a photograph of the decanter showing the position of the stopper. Shelf mark 68. Clerk instructed that no annotation be placed on the public index. The officer who signed the routing slip is now deceased—died of a \"heart seizure\" three days after Sauval's death, at the age of forty-two, with no prior history of cardiac weakness.\n\nFiled in a fair hand; trust it not overmuch. There is a seam in this account where another hand hath tugged at it. The desk-note beneath it read only: \"keep apart from the louder papers.\""
+      },
+      {
+        "body": "A marginal note warns that the separate packet matters more than the open papers and should not be discussed in front of the detained witnesses. The same note, in different ink, adds: \"Caillou has been asking after the routing slip. Tell him nothing.\"\n\nEntered as sober truth, though truth oft weareth a counterfeit coat. The phrasing is too neat by half, which in murder-books is seldom a happy omen. The desk-note beneath it read only: \"keep apart from the louder papers.\"\n\nPencilled upon the inward flap, as though it were but a warehouse remembrance: first bell, first stair, first lantern, third berth."
+      }
+    ],
+    "subtitle": "Set down under oath, and therefore no safer than any other vanity of men.",
+    "password": "7714"
+  }

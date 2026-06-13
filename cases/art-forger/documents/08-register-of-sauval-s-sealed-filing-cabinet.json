@@ -1,0 +1,18 @@
+{
+    "order": 8,
+    "rotation": 0.69,
+    "id": "files",
+    "title": "Register of Sauval's Sealed Filing Cabinet",
+    "kind": "ledger",
+    "sections": [
+      {
+        "heading": "BRIBERY LEDGER",
+        "body": "A bound volume, its pages foxed and its spine cracked, records two decades of payments from various sources to \"L.C.\"—Inspector Lambert Caillou. The total sum exceeds 487,000 francs. Each entry is initialled by both Sauval (who appears to have acted as a broker of sorts) and Caillou. The last entry, dated three days before Sauval's death, is crossed out in red ink, with a marginal note: \"No more—I am finished with this filthy commerce.\"\n\nDesk mark: doubtful. The same mark is set upon papers later proved sound. Methinks the paper smelleth of haste, candle grease, and a conscience unquiet. The desk-note beneath it read only: \"keep apart from the louder papers.\""
+      },
+      {
+        "heading": "SAUVAL'S NOTE",
+        "body": "A loose leaf, written in Sauval's hand on the back of a sketch of a hanged man, reads: \"Yesterday I told C. that I am turning everything over to the prosecutor on Monday—myself included. He went pale. He asked me to wait. I told him I would not. He said, 'Then we are both dead.' I thought he meant metaphorically. Now I am not so certain.\"\n\nTrust this sheet if thou wilt; the sergeant trusted it not, yet kept it. A prudent reader will note what is said, and more keenly what is artfully left unsaid. The desk-note beneath it read only: \"keep apart from the louder papers.\""
+      }
+    ],
+    "subtitle": "Set down under oath, and therefore no safer than any other vanity of men."
+  }

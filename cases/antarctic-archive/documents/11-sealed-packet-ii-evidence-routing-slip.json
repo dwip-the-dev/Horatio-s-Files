@@ -1,0 +1,17 @@
+{
+  "order": 11,
+  "id": "routing-slip",
+  "title": "Sealed Packet II — Evidence Routing Slip",
+  "kind": "ledger",
+  "password": "1474",
+  "sections": [
+    {
+      "heading": "CHAIN OF CUSTODY",
+      "body": "Forensic check of the archive cabin electronic locking door assembly reveals no physical signs of forced entry. However, the internal digital lock log records that the deadbolt was retracted using an administrative root override token. This master token is issued exclusively to the systems technician for automated maintenance cycles.\n\nTrust this sheet if thou wilt; the sergeant trusted it not, yet kept it.\n\nA prudent reader will note what is said, and more keenly what is artfully left unsaid. The desk-note beneath it read only: “keep apart from the louder papers.”"
+    },
+    {
+      "body": "A marginal note warns that the separate packet matters more than the open papers and should not be discussed in front of the detained witnesses.\n\nSet down under oath, and therefore no safer than any other vanity of men.\n\nThe margin is cleaner than the tale; that alone should give a sober mind pause. The desk-note beneath it read only: “keep apart from the louder papers.”\n\nPencilled upon the inward flap, as though it were but a warehouse remembrance: The third sealed gate requires a synthesis of numbers: the order of the journalist Carrick's examination, joined with the depth of the icy well where the victim lay."
+    }
+  ],
+  "subtitle": "Entered as sober truth, though truth oft weareth a counterfeit coat."
+}

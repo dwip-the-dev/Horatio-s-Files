@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dealer",
+    "name": "Charles Decroix, dealer",
+    "age": 56,
+    "occupation": "Gallery owner",
+    "relation": "Sold Sauval's forgeries as genuine for twenty years."
+  },
+  {
+    "id": "rival",
+    "name": "Renée Boutin, restorer",
+    "age": 44,
+    "occupation": "Restorer",
+    "relation": "Sauval had threatened to expose her own forgeries."
+  },
+  {
+    "id": "patron",
+    "name": "Aristide Vaillant, collector",
+    "age": 71,
+    "occupation": "Industrialist collector",
+    "relation": "Recently learned his prize Vermeer was a Sauval."
+  },
+  {
+    "id": "muse",
+    "name": "Yvette Sauval (sister)",
+    "age": 39,
+    "occupation": "Sister & model",
+    "relation": "Sole heir to the unsold works."
+  },
+  {
+    "id": "cop",
+    "name": "Insp. Lambert Caillou",
+    "age": 50,
+    "occupation": "Police inspector (art squad)",
+    "relation": "Had taken bribes from Sauval for ten years; now under investigation."
+  }
+]
